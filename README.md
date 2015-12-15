@@ -1,0 +1,2 @@
+# ALL-HANDS-README
+Mandatory README for all team members, in technical or otherwise. Includes things like helper apps and requisite security policies and procedures that must be followed. They are mandatory due to the nature of our enterprise and therefore we must hold to a higher standard than what is considered acceptable and/or the average (read: lax). I will try to explain things well enough that the standards set hence do not seem arbitrary or nothing more than an obstruction.
